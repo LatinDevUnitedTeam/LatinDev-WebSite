@@ -11,6 +11,8 @@ El objetivo del sitio web es crear un blog con chat incrustado, para que los des
 - **Tipo de Web:**
 	- __microblogging__
 	- __chat en vivo__
+- **Normativas:**
+
 
 ## Arquitectura
 
