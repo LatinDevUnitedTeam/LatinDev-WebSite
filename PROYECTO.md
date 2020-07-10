@@ -19,9 +19,13 @@ El objetivo del sitio web es crear un blog con chat incrustado, para que los des
 - **Estructura DB:**
 - **Estructura Menú:**
 - **Tecnologías a usar:**
-	- **Frontend:**
-	- **Backend:**
-- **Servidor:**
+	- **Frontend:** Necesitamos elegir entre las siguientes tecnologías:
+		- __Vue__
+		- __React__
+		- __JavaScript Puro__
+	- **Backend:** PHP7 con Laravel
+	- **Base de datos:** MySQL 8
+- **Servidor:** Para empezar, usaremos un hosting económico.
 
 ## Diseño / Construcción / Pruebas
 
@@ -31,7 +35,7 @@ El objetivo del sitio web es crear un blog con chat incrustado, para que los des
 
 ## Producción y mantenimiento
 
-- **Mejoras**
+- **Mejoras:**
 
 ## Marketing / CEO
 
