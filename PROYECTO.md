@@ -7,7 +7,8 @@ El objetivo del sitio web es crear un blog con chat incrustado, para que los des
 ## Planificación
 
 - **Nombre del dominio:**
-- **Tipo de dominio:** .com o .org
+- **Tipo de dominio:**
+	- __.com__
 - **Tipo de Web:**
 	- __microblogging__
 	- __chat en vivo__
@@ -36,6 +37,10 @@ El objetivo del sitio web es crear un blog con chat incrustado, para que los des
 ## Producción y mantenimiento
 
 - **Mejoras:**
+	1. Teniendo en cuenta que tendremos ingresos para cotizar un VPS o un __hosting__ que acepte todas las tecnologías, migraremos a las siguientes tecnolgías:
+		- **Frontend:**
+		- **Backend:**
+
 
 ## Marketing / CEO
 
