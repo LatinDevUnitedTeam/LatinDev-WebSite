@@ -2,13 +2,18 @@
 
 ## Introducción
 
-1. Descripción del proyecto
+### **Descripción del proyecto**
 
 - El mundo del desarrollo es muy grande, e igual que el universo, siempre está en expansión. Por ello, es necesaria una comunidad donde los desarrolladores de habla hispana de todo el mundo se unan y compartan sus experiencias y consejos. Un lugar para conseguir la sinergia que nos hará ser fuertes y resilientes, tanto a amateurs como veteranos, ante cualquier adversidad que puedan encontrarse en el universo del desarrollo. 
 
-2. Exposición de los objetivos
+### **Exposición de los objetivos**
 
 - El objetivo del sitio web es crear un blog con chat incrustado, para que los desarrolladores de habla hispana de todo el mundo tengan un lugar donde aprender y compartir sus conocimientos junto a los demás miembros.
+
+### **Componentes de Software Libre y Libre Distribución**
+
+- El sitio web se construirá con aplicaciones y herramientas de Software Libre y de Libre Distriubución. De esta manera pondremos en valor este tipo de tecnologías libres.
+
 
 ## Análisis / Investigación
 
@@ -16,13 +21,16 @@
 
 ## Planificación
 
-- **Nombre del dominio:**
-- **Tipo de dominio:**
-	- __.com__
-- **Tipo de Web:**
-	- __microblogging__
-	- __chat en vivo__
-- **Normativas:**
+### **Nombre del dominio:**
+
+### **Tipo de dominio:**
+- __.com__
+
+### **Tipo de Web:**
+- __microblogging__
+- __chat en vivo__
+
+### **Normativas:**
 
 
 ## Arquitectura
