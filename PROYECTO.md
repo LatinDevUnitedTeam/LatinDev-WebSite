@@ -1,6 +1,6 @@
 # PROYECTO LATINDEV WEBSITE
 
-## Introducción
+## 1. Introducción
 
 ### **Descripción del proyecto**
 
@@ -15,44 +15,69 @@
 - El sitio web se construirá con aplicaciones y herramientas de Software Libre y de Libre Distriubución. De esta manera pondremos en valor este tipo de tecnologías libres.
 
 
-## Análisis / Investigación
+***
 
+## 2. Análisis / Investigación
 
+### 2.1 Alcance del sitema
 
-## Planificación
+La comunidad **LatinDevUnited** nace con el objetivo de impulsar, mejorar y compartir los conocimientos de la ingeniería informática, desde lo más básico hasta lo más avanzado.
+Por ello se decide crear un nuevo sitio web de la comunidad que incluirá las siguientes funcionalidades:
+
+- Ofrecer todo tipo de contenido relacionado con su estructura, organización, objetivos, beneficios, etc.
+- Proporcionar una herramienta de gestión de contenidos que facilite la actualización de los contenidos del sitio web.
+- En contrucción...
+
+***
+
+## 3. Planificación
 
 ### **Nombre del dominio:**
 
 ### **Tipo de dominio:**
-- __.com__
+- _.com_
 
 ### **Tipo de Web:**
-- __microblogging__
-- __chat en vivo__
+- _microblogging_
+- _chat en vivo_
 
 ### **Normativas:**
 
 
-## Arquitectura
 
-- **Estructura DB:**
-- **Estructura Menú:**
-- **Tecnologías a usar:**
-	- **Frontend:** Necesitamos elegir entre las siguientes tecnologías:
-		- __Vue__
-		- __React__
-		- __JavaScript Puro__
-	- **Backend:** PHP7 con Laravel
-	- **Base de datos:** MySQL 8
-- **Servidor:** Para empezar, usaremos un hosting económico.
+***
 
-## Diseño / Construcción / Pruebas
+## 4. Arquitectura
+
+### **Estructura DB:**
+### **Estructura Menú:**
+### **Tecnologías a usar:**
+- **Frontend:** Necesitamos elegir entre las siguientes tecnologías:
+	- _Vue_
+	- _React_
+	- _JavaScript Puro_
+- **Backend:**
+	- _PHP7_: 
+	- _Laravel_:
+- **Base de datos:** MySQL 8
+
+### **Servidor:** Para empezar, usaremos un hosting económico.
+
+
+
+***
+
+## 5. Diseño / Construcción / Pruebas
 
 - **Diseño HTML / CSS:**
 - **Plantillas:**
 - **Imágenes:**
 
-## Producción y mantenimiento
+
+
+***
+
+## 6. Producción y mantenimiento
 
 - **Futuras mejoras:**
 	1. Teniendo en cuenta que tendremos ingresos para cotizar un VPS o un __hosting__ que acepte todas las tecnologías, migraremos a las siguientes tecnolgías:
@@ -60,7 +85,7 @@
 		- **Backend:**
 
 
-## Marketing / CEO
+## 6. Marketing / CEO
 
 - **Publicidad:**
 - **Posicionamiento en buscadores:**
